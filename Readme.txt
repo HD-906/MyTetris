@@ -7,7 +7,7 @@ How to Play
 
 - Start the Game:
 
-== Run the Tetris.py file to launch the game.
+== Run the code in Tetris.py in src to launch the game.
 == In the main menu, select "Play" to start a new game of Tetris.
 
 - Customize Controls:
