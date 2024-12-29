@@ -1,13 +1,14 @@
 Tetris Game
 
 Requirements:
-• Pygame: Ensure that Pygame is installed to avoid the "module not found" error. Installation can be done via pip install pygame.
+• modules: Ensure that Pygame and Numpy are installed to avoid the "module not found" error. Installation can be done via pip install pygame.
 
 How to Play
 
 - Start the Game:
 
-== Run the code in Tetris.py in src to launch the game.
+== Run the exe file OR Run the code in Tetris.py in src
+
 == In the main menu, select "Play" to start a new game of Tetris.
 
 - Customize Controls:
